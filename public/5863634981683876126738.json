@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232695368",
+    "project_id": "contras-develop",
+    "storage_bucket": "contras-develop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232695368:android:249147e5ad7093c5f7da7d",
+        "android_client_info": {
+          "package_name": "com.ContrasDevelop.VSCOBasicBeginnerGuide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232695368-tfqh9s4htbcbj4bompbumc1557kd4599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYSOO2uBaHUqGB_o00KuNk7GFCM7fZYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232695368-tfqh9s4htbcbj4bompbumc1557kd4599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
